@@ -88,8 +88,5 @@ to be incorporated into the "real objects".
 
 * The current implementation is not bidirectional yet.
   I can read and subscribe to a share, but not make changes yet.
-* the `password` setting
-  When the sharing is public and a password is set, the objects can be only accessed
-  with the password. Users that are liste
 
 
